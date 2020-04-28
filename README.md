@@ -11,3 +11,8 @@ Most of time I was working with data:
   - Data Processing
   - Features engineering
   - Data visualization
+![intro](./media/intro.png)
+![ways to solve](./media/main.png)
+![features](./media/features.png)
+![model selection](./media/models.png)
+![team](./media/team.png)
